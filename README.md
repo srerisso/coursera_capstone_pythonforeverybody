@@ -19,3 +19,5 @@ We will provide you with sample code and lectures that walk through the sample c
 
 There is not a lot of new code to write - it is mostly looking at the code and making the code work. You will be able to spider some simple content that we provide and then play with the program to spider some other content. Part of the fun of this assignment is when things go wrong and you figure out how to solve a problem when the program wanders into some data that breaks its retrieval and parsing. So you will get used to starting over with a fresh database and running your web crawl.
 ```
+
+- Page Rank overview
