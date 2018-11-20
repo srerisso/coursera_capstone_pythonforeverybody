@@ -26,4 +26,11 @@ There is not a lot of new code to write - it is mostly looking at the code and m
   - Index building: spider  - Searching.
   - Visualization
 
-- Worked example: PageRank Spidering (17 min.)
+- Worked example: Page Rank Spidering (17 min.)
+
+  - pagerank.zip.
+  - spider.py
+
+- Worked Example: Page Rank Computation (15 min)
+
+  - sprank.py. convergeing pagerank value.
