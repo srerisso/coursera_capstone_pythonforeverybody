@@ -34,3 +34,7 @@ There is not a lot of new code to write - it is mostly looking at the code and m
 - Worked Example: Page Rank Computation (15 min)
 
   - sprank.py. convergeing pagerank value.
+
+- Worked Example: Visualization (6 min)
+
+  - spdump.py, D3.js visualization library.
