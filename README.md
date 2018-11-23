@@ -33,8 +33,19 @@ There is not a lot of new code to write - it is mostly looking at the code and m
 
 - Worked Example: Page Rank Computation (15 min)
 
-  - sprank.py. convergeing pagerank value.
+  - sprank.py. converging pagerank value.
 
 - Worked Example: Visualization (6 min)
 
   - spdump.py, D3.js visualization library.
+
+
+### Proceso resumido
+
+- python3 spider.py. How may pages to spider?
+
+- python3 sprank.py. How many iterations of PageRank?
+
+- python3 spdump.py.
+
+- python3 spjson.py. How many nodes to visualize?
