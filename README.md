@@ -49,3 +49,12 @@ There is not a lot of new code to write - it is mostly looking at the code and m
 - python3 spdump.py.
 
 - python3 spjson.py. How many nodes to visualize?
+
+
+## Week 3: Exploring Data Sources (Project).
+
+- Identifying your Data Source - Introduction (1o min)
+
+- List of Data Sources (instructional staff curated) (10 min)
+
+- Identifying a Data Source (5 min)
